@@ -1,1 +1,0 @@
-# sp_listar_movim_cuenta
